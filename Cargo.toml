@@ -1,0 +1,11 @@
+[package]
+name = "linux"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libc = "0.2"
+nix = { version = "0.30.1", features = ["fs", "process", "signal", "term",] }
+rand = "0.8"
+
+
