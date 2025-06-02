@@ -10,6 +10,7 @@ rand = "0.8"
 regex = "1"
 signal-hook = "0.3"
 syslog = "7.0.0"
+caps = "0.5"
 
 
 
